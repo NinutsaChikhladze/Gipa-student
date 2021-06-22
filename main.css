@@ -1,0 +1,32 @@
+<style type="text/css">
+
+	/*kvela ps da uls edeba lurji feri */
+		p, ul, ol {color: #458a95;}
+		h1{color: #1a1110;}
+		section{color: dimgrey;}
+
+		/*footeris foni xdeba nacrisferi text tetri*/
+         footer {background: #313235        ;
+         	color: white;
+         	font-size: 25px;
+         	font-style: italic;}
+
+         hr{height: 10px;
+         	background: #313235;}
+         	span{color: black;}
+         	h1 {color: orangered;}
+        /*es aris class */
+       .dog-title {color: black;
+       	font-size: 27px;}
+
+
+/*id universaluria, simaghle sigane*/
+#logo{ width: 200px;
+	height: 200px;
+
+}
+
+ /** KVELAFERS EDEBA*/
+
+
+	</style>
